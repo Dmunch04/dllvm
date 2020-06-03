@@ -1,0 +1,11 @@
+{
+	"name": "dllvm",
+	"description": "A LLVM-10 bindings wrapper for D",
+	"license": "MIT",
+	"copyright": "Copyright © 2020, Munchii",
+	"authors": ["Munchii"],
+
+	"targetType": "library",
+	"sourcePaths": ["source"],
+	"excludedSourceFiles": ["source/app.d"]
+}
